@@ -20,5 +20,4 @@ OpenAI text-embedding-ada-002
 ```
 
 
-![LLM enabled explainability in a DDDAS/DDT system](https://github.com/explainable-digital-twins/RAG-DDDAS/files/15383560/arch.pdf)
-
+![LLM enabled explainability in a DDDAS/DDT system](assets/arch.svg)
